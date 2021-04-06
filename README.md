@@ -13,7 +13,7 @@ A simple dynamic website which has the following specs.
 
 - Functionality - Transfer of money between multiple users. 
 
-<img src = "C:\Users\Admin\Pictures\Screenshots\Screenshots(2602)">
+
 
 
 
